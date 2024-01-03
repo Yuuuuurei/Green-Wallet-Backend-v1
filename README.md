@@ -18,3 +18,7 @@ Berikut adalah langkah-langkah untuk menginstal aplikasi:
 5. Jalankan file `.bat` untuk menjalankan aplikasi.
 
 Pastikan untuk mengikuti langkah-langkah di atas dengan teliti agar aplikasi dapat diinstal dengan sukses.
+
+## Frontend
+
+Proyek frontend tersedia di [GitHub - Green Wallet Frontend](https://github.com/Yuuuuurei/Green-Wallet-Frontend). Silakan kunjungi repositori tersebut untuk informasi lebih lanjut dan instruksi instalasi frontend.
