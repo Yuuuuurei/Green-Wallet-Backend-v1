@@ -18,6 +18,7 @@ Berikut adalah langkah-langkah untuk menginstal aplikasi:
 3. Ganti `[passwd]` dengan password pengguna.
 4. Ganti `[db name]` dengan nama database yang diinginkan pengguna.
 5. Jalankan file `.bat` untuk menjalankan aplikasi.
+6. Jalankan file `.bat` pada folder frontend untuk membuka localhost
 
 Pastikan untuk mengikuti langkah-langkah di atas dengan teliti agar aplikasi dapat diinstal dengan sukses.
 
