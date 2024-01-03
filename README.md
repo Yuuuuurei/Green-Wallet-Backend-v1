@@ -1,4 +1,6 @@
-# Persyaratan (Requirements)
+# Panduan Instalasi
+
+## Persyaratan (Requirements)
 
 Pastikan Anda memiliki perangkat lunak berikut sebelum menginstal aplikasi:
 
@@ -7,7 +9,7 @@ Pastikan Anda memiliki perangkat lunak berikut sebelum menginstal aplikasi:
 
 Silakan unduh dan instal versi terbaru dari MySQL dan Python melalui tautan di atas.
 
-## Panduan Instalasi
+## Langkah Instalasi
 
 Berikut adalah langkah-langkah untuk menginstal aplikasi:
 
