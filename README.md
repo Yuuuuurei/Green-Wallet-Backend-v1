@@ -1,4 +1,13 @@
-# Panduan Instalasi
+# Persyaratan (Requirements)
+
+Pastikan Anda memiliki perangkat lunak berikut sebelum menginstal aplikasi:
+
+- [MySQL](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.35.0.msi)
+- [Python](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+
+Silakan unduh dan instal versi terbaru dari MySQL dan Python melalui tautan di atas.
+
+## Panduan Instalasi
 
 Berikut adalah langkah-langkah untuk menginstal aplikasi:
 
@@ -9,12 +18,3 @@ Berikut adalah langkah-langkah untuk menginstal aplikasi:
 5. Jalankan file `.bat` untuk menjalankan aplikasi.
 
 Pastikan untuk mengikuti langkah-langkah di atas dengan teliti agar aplikasi dapat diinstal dengan sukses.
-
-## Persyaratan (Requirements)
-
-Pastikan Anda memiliki perangkat lunak berikut sebelum menginstal aplikasi:
-
-- [MySQL](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.35.0.msi)
-- [Python](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
-
-Silakan unduh dan instal versi terbaru dari MySQL dan Python melalui tautan di atas.
