@@ -16,7 +16,7 @@ REM Install dependencies
 pip install -r requirements.txt
 
 REM Set Flask environment variables
-set FLASK_APP=__init__.py
+set FLASK_APP=app\__init__.py
 set FLASK_ENV=development
 
 REM Run Flask application
