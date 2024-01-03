@@ -3,3 +3,4 @@ Flask-SQLAlchemy==3.0.3
 SQLAlchemy==2.0.4
 Werkzeug==3.0.0
 mysql-connector-python
+Flask-cors
